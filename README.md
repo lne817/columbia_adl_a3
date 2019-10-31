@@ -1,5 +1,5 @@
 # Columbia University COMS W4995 Applied Deep Learning
-# Nae Eoun Lee (UNI: nl2287)
+Nae Eoun Lee (UNI: nl2287)
 
 ## 3a. Implementation of ReLU
 My own implementation of ReLU provided the higher train accuracy and the lower train loss than either of Tanh or Sigmoid. 
